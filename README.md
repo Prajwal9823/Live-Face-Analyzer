@@ -44,7 +44,7 @@ A real-time face analysis application that detects emotions, age, gender, and ra
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/live-face-analyzer.git
+git clone https://github.com/Prajwal9823/live-face-analyzer.git
 cd live-face-analyzer
 ```
 2. Create and activate virtual environment:
